@@ -10,3 +10,5 @@ A fully automated trading bot developed in MQL5 that can:
 1. Execute trades based on technical analysis logic
 2. Use dynamic trade management (SL, TP, Trailing Stop, etc.)
 3. Serve as a foundation for building advanced strategies
+
+Read More - https://www.mql5.com/en/articles/18147/188609#!tab=article
