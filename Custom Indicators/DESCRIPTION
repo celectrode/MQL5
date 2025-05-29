@@ -1,1 +1,11 @@
+This directory contains a collection of custom-built indicators developed in MQL5 for MetaTrader 5. Unlike built-in indicators, these tools are uniquely designed to visualize market data in innovative ways, offering more flexibility and customization for traders.
 
+Each indicator in this collection:
+
+Is built from scratch using MQL5
+
+Serves a specific technical analysis purpose
+
+Can be used for both manual trading and automation
+
+New indicators will be added over time as I experiment with new ideas and strategies.
