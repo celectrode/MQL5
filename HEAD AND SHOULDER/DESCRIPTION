@@ -1,1 +1,12 @@
+📌Head and Shoulders Pattern Indicator
+1. A custom indicator that automatically detects Head and Shoulders chart patterns on any time frame.
+2. Identifies both regular and inverse formations
+3. Highlights neckline breakouts
+4. Ideal for spotting high-probability reversal zones
+5. Built using MQL5 chart objects for visual clarity
 
+📌Head and Shoulders Expert Advisor (EA)
+A fully automated trading bot developed in MQL5 that can:
+1. Execute trades based on technical analysis logic
+2. Use dynamic trade management (SL, TP, Trailing Stop, etc.)
+3. Serve as a foundation for building advanced strategies
