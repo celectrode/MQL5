@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
-//|                                      MQL5INDICATORS_PROJECT4.mq5 |
-//|                                  Copyright 2024, MetaQuotes Ltd. |
-//|                                             https://www.mql5.com |
+//|                                  Head and Shoulder Indicator.mq5 |
+//|                                 Abioye Israel Pelumi (Forex YMN) |
+//|                             https://linktr.ee/abioyeisraelpelumi |
 //+------------------------------------------------------------------+
-#property copyright "ForexYMN"
-#property link      "crownsoyin@gmail.com"
+#property copyright "Abioye Israel Pelumi"
+#property link      "https://linktr.ee/abioyeisraelpelumi"
 #property version   "1.00"
 
 #include <Trade/Trade.mqh>
