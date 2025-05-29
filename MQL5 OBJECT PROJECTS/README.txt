@@ -4,3 +4,5 @@ The adaptability of this EA to modifications in your trade setup is one of its p
 
 The EA lets you examine previous trades, which provides insightful historical analysis. It helps you assess your trading performance and make wise decisions by showing you how much you won or lost in prior positions. You can see historical data directly on the chart by defining the date range. This gives you a thorough overview of your trading history and the option to zoom in on specific trades for more in-depth analysis.
 
+Read more - https://www.mql5.com/en/articles/15764
+
