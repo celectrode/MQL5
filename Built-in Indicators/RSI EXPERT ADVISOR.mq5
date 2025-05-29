@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                  Head and Shoulder Indicator.mq5 |
+//|                                           RSI EXPERT ADVISOR.mq5 |
 //|                                 Abioye Israel Pelumi (Forex YMN) |
 //|                             https://linktr.ee/abioyeisraelpelumi |
 //+------------------------------------------------------------------+
