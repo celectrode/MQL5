@@ -1,1 +1,10 @@
+This directory contains Expert Advisors (EAs) built using various MetaTrader 5 built-in indicators such as Moving Average, RSI, MACD, Stochastic, and more.
+Each EA demonstrates how to:
+1. Integrate and use a specific built-in indicator in MQL5
+2. Generate entry and exit signals
+3. Apply basic risk management tools (SL, TP, etc.)
+This collection is perfect for learning how to automate strategies using built-in tools in MT5. New EAs will be added regularly as I explore more indicators.
 
+READ MORE:
+RSI EXPERT ADVISOR - https://www.mql5.com/en/articles/16956
+RSI EA DIVERGENCE AND CONVERGENCE - https://www.mql5.com/en/articles/16956
