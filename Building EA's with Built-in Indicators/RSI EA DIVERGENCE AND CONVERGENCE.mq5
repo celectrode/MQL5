@@ -1,11 +1,12 @@
 //+------------------------------------------------------------------+
-//|                                      MWL5INDICATORS_PROJECT5.mq5 |
-//|                                                         ForexYMN |
-//|                                             crownsoyin@gmail.com |
+//|                            RSI EA DIVERGENCE AND CONVERGENCE.mq5 |
+//|                                 Abioye Israel Pelumi (Forex YMN) |
+//|                             https://linktr.ee/abioyeisraelpelumi |
 //+------------------------------------------------------------------+
-#property copyright "ForexYMN"
-#property link      "crownsoyin@gmail.com"
+#property copyright "Abioye Israel Pelumi (Forex YMN)"
+#property link      "https://linktr.ee/abioyeisraelpelumi"
 #property version   "1.00"
+
 #include <Trade/Trade.mqh>
 CTrade trade;
 
